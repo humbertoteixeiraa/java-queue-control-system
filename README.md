@@ -1,4 +1,4 @@
-# Sobre o Sistema de Controle de Filas de Banco Java
+# java-queue-control-system
  * Criado durante a Atividade MAPA (Disciplina: Programação II) do curso de graduação em Análise e Desenvolvimento de Sistemas da UNICESUMAR.
 
 # Requisitos de desenvolvimento
